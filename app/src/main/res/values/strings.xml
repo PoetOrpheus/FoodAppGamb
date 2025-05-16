@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodAppGamb</string>
+    <string name="splashSubtitle" translatable="false">Просто, удобно и с душой —
+        заказывайте еду легко и с радостью!</string>
+</resources>
